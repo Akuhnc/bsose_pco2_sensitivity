@@ -1,0 +1,57 @@
+#
+#
+# ******************
+# PROFILES cost f',tion
+# ******************
+ &PROFILES_NML
+#CMM
+#CMM
+ profilesDir = 'PROF',
+ profilesfiles(01)  = 'USGO_SO_2008_PFL_D',  
+ profilesfiles(02)  = 'USGO_SO_2009_PFL_D',  
+ profilesfiles(03)  = 'USGO_SO_2010_PFL_D',  
+ profilesfiles(04)  = 'USGO_SO_2011_PFL_D',
+ profilesfiles(05)  = 'USGO_SO_2012_PFL_D',
+ profilesfiles(06) = 'HDO_SO_2008_CTD',
+ profilesfiles(07) = 'HDO_SO_2009_CTD',
+ profilesfiles(08) = 'HDO_SO_2010_CTD',
+ profilesfiles(09) = 'HDO_SO_2011_CTD',
+ profilesfiles(10) = 'HDO_SO_2012_CTD',
+ profilesfiles(11) = 'SIO_SO_2008_XBT',
+ profilesfiles(12) = 'SIO_SO_2009_XBT',
+ profilesfiles(13) = 'SIO_SO_2010_XBT',
+ profilesfiles(14) = 'SIO_SO_2011_XBT',
+ profilesfiles(15) = 'SIO_SO_2012_XBT',
+ profilesfiles(16) = 'GLODAPv2',
+ profilesfiles(17) = 'LDEO_pCO2',
+ profilesfiles(18) = 'UWO2_SO_2008_FO2',
+ profilesfiles(19) = 'UWO2_SO_2009_FO2',
+ profilesfiles(20) = 'UWO2_SO_2010_FO2',
+ profilesfiles(21) = 'UWO2_SO_2011_FO2',
+ profilesfiles(22) = 'UWO2_SO_2012_FO2',
+ profilesfiles(23) = 'MEO_SO_2008_MEO_D',
+ profilesfiles(24) = 'MEO_SO_2009_MEO_D',
+ profilesfiles(25) = 'alison_floats_2008to2010',
+ profilesfiles(26) = 'alison_floats_2009to2011',
+ profilesfiles(27) = 'alison_floats_2010to2012',
+# # profilesfiles(16) = 'Argo_chla',
+#
+## mult profiles default is 1, only need if 0.
+# mult_profiles(6,9)  = 0.0,
+# mult_profiles(7,9)  = 0.0,
+# mult_profiles(8,9)  = 0.0,
+# mult_profiles(9,9)  = 0.0,
+# mult_profiles(10,9)  = 0.0,
+# mult_profiles(23,1)  = 0.0,
+# mult_profiles(24,1)  = 0.0,
+# mult_profiles(25,1)  = 0.0,
+# mult_profiles(26,1)  = 0.0,
+# mult_profiles(27,1)  = 0.0,
+# mult_profiles(23,2)  = 0.0,
+# mult_profiles(24,2)  = 0.0,
+# mult_profiles(25,2)  = 0.0,
+# mult_profiles(26,2)  = 0.0,
+# mult_profiles(27,2)  = 0.0,
+#
+/
+

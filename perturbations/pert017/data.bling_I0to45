@@ -1,0 +1,14 @@
+# BLING parameters 
+ &ABIOTIC_PARMS
+ /
+
+ &BIOTIC_PARMS
+#  k_Fe = 8.1960E-7 (default)
+  k_Fe = 4.0E-7,
+ /
+
+ &BLING_FORCING
+  BLING_silicaFile='silica_clim_dictutorial_sose3.bin',
+  BLING_ironFile = 'fe_surfflux_mahowald_sose3.bin',
+  BLING_pCO2=380.5E-6,
+ /
