@@ -1,0 +1,22 @@
+# Packages
+ &PACKAGES
+#
+ useEXF         = .TRUE.,
+ usePTRACERS    = .TRUE.,
+ useGCHEM       = .TRUE.,
+ useGMRedi      = .FALSE.,
+#  useKPP         = .TRUE.,
+ useGGL90       =.TRUE.,
+ useSALT_PlUME  =.TRUE.,
+ useECCO        = .TRUE.,
+#
+ useCTRL = .TRUE.,
+ useOBCS        = .TRUE.,
+# useDiagnostics = .TRUE.,
+ useSeaice      = .TRUE.,
+# useFrazil      = .FALSE.,
+ usePROFILES   = .TRUE.,
+ useSMOOTH      = .TRUE.,
+# useMNC=.FALSE.,
+ /
+  
