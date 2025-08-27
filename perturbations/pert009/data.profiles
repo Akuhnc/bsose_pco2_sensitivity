@@ -1,0 +1,20 @@
+#
+#
+# ******************
+# PROFILES cost f',tion
+# ******************
+ &PROFILES_NML
+#CMM
+#CMM
+ profilesDir = 'PROF',
+ profilesfiles(1) = 'USGO_WO_2019_PFLBGC_CHL',
+ profilesfiles(2) = 'USGO_WO_2020_PFLBGC_CHL',
+ mult_profiles(1,1)  = 0.0,
+ mult_profiles(1,2)  = 0.0,
+ mult_profiles(1,15) = 1.0,
+ mult_profiles(2,1)  = 0.0,
+ mult_profiles(2,2)  = 0.0,
+ mult_profiles(2,15) = 1.0,
+#
+/
+
