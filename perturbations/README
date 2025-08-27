@@ -1,0 +1,9 @@
+Perturbations for the sensitivity analysis are performed by modifying namelists and/or initial conditions.
+
+For biogeochemical parameters: see changes on data.bling
+
+For sea ice parameters: see changes on data.seaice
+
+For forcing variables: see changes on data.exf
+
+For forcing initial conditions: see changes on data and data.ptracers
